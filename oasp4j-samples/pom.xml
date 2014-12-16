@@ -17,6 +17,7 @@
   <modules>
     <module>oasp4j-sample-core</module>
     <module>oasp4j-sample-server</module>
+    <module>oasp4j-sample-boot-server</module>
   </modules>
 
   <profiles>
@@ -25,6 +26,7 @@
         <modules>
           <module>oasp4j-sample-core</module>
           <module>oasp4j-sample-server</module>
+			    <module>oasp4j-sample-boot-server</module>
           <module>oasp4j-sample-server-integration</module>
         </modules>
     </profile>
